@@ -10,6 +10,14 @@
       "StackName": "amplify-zxproject-dev-cada3",
       "StackId": "arn:aws:cloudformation:ap-northeast-2:891377168561:stack/amplify-zxproject-dev-cada3/78c3d1b0-6103-11ef-a0dc-06a3b30e840f",
       "AmplifyAppId": "d1p3tz11009hug"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1p3tz11009hug",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
